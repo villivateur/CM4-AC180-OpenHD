@@ -1,5 +1,7 @@
 Use Rpi CM4 and AC180 on a single board for OpenHD.
 
+USE EasyEDA or JLC-eda to open this project.
+
 It seems that I cannot buy an ochin board for OpenHD, so I create this simple carrier board for CM4 and AC180.
 
 Maybe a little big, but it just works. I can make it smaller, by put the AC180 under the CM4, but in that case, it is harder to solder. I'm trying to make it easier for everyone with a simple hot plate to complete this design.
